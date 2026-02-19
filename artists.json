@@ -1,0 +1,39 @@
+{
+  "artists": [
+    {
+      "name": "ИЗВЕКОВ ИВАН",
+      "username": "@izvekov_iv",
+      "slug": "ivan-izvekov",
+      "telegramId": "730186940",
+      "registeredAt": "2026-02-19T10:36:09.701Z"
+    },
+    {
+      "name": "АННА КРАВЧЕНКО",
+      "username": "@annakravchenkoart",
+      "slug": "anna-kravchenko",
+      "telegramId": null,
+      "registeredAt": null
+    },
+    {
+      "name": "РУСЛАН ШАВАЛЕЕВ",
+      "username": "@rshvlv",
+      "slug": "ruslan-shavaleev",
+      "telegramId": null,
+      "registeredAt": null
+    },
+    {
+      "name": "АНДРЕЙ SOUL",
+      "username": "@helllo_andy",
+      "slug": "andrey-soul",
+      "telegramId": null,
+      "registeredAt": null
+    },
+    {
+      "name": "МАРК ЯВОРСКИЙ",
+      "username": "@myavorsky",
+      "slug": "mark-yavorsky",
+      "telegramId": null,
+      "registeredAt": null
+    }
+  ]
+}
